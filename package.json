@@ -38,6 +38,7 @@
   "dependencies": {
     "@lifeomic/attempt": "^3.0.0",
     "@types/chance": "^1.0.2",
+    "@types/fs-extra": "^8.0.0",
     "@types/request-promise": "^4.1.43",
     "bluebird": "^3.7.1",
     "chance": "^1.0.18",
